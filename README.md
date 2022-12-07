@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @chiragneb
-- 👀 I’m interested in Python, Javascript & Ethereum
-- 🌱 I’m currently learning JS
+- 👀 I’m interested in Cryptocurrency | WEB3
+- 🌱 I’m currently learing JS, PY and ETH
+- 👨🏾‍💻 Looking for junior front-end developer Job 
 
 - 📫 How to reach me chiragneb@gmail.com
 
