@@ -10,9 +10,9 @@
 Portfolio 🍩   
 
 
-PersonalBlog: https://chiragneb.vercel.app \
+**PersonalBlog: https://chiragneb.vercel.app \
 Crypto Price tracker: https://cryptopricetracker-react.vercel.app/ 
-
+OMDB based movie search APP: https://moviesearch-omdb.vercel.app/**
 ----------------------------------------------------
 
 
