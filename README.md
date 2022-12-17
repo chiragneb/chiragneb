@@ -2,18 +2,17 @@
 - 👀 I’m interested in Cryptocurrency | WEB3
 - 🌱 I’m currently learing JS, PY and ETH
 - 👨🏾‍💻 Looking for junior front-end developer Job 
-
 - 📫 How to reach me chiragneb@gmail.com   
 
 
 
 My Portfolio 🏗️   
 
-PersonalBlog: https://chiragneb.vercel.app 
+- PersonalBlog: https://chiragneb.vercel.app 
 
-Crypto Price tracker: https://cryptopricetracker-react.vercel.app/ 
+- Crypto Price tracker: https://cryptopricetracker-react.vercel.app/ 
 
-OMDB based movie search APP: https://moviesearch-omdb.vercel.app/
+- OMDB based movie search APP: https://moviesearch-omdb.vercel.app/
 
 
 
