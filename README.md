@@ -8,11 +8,11 @@
 
 My Portfolio 🏗️   
 
-- PersonalBlog: https://chiragneb.vercel.app 
+- PersonalBlog: https://chiragneb.vercel.app built with Next.js official starter template
 
-- Crypto Price tracker: https://cryptopricetracker-react.vercel.app/ 
+- Crypto Price tracker: https://nextpricetracker.vercel.app/ built with NextJs and Tailwind CSS
 
-- OMDB based movie search APP: https://moviesearch-omdb.vercel.app/
+- OMDB based movie search APP: https://moviesearch-omdb.vercel.app/ built with React
 
 
 
