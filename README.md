@@ -14,6 +14,8 @@ My Portfolio 🏗️
 
 - OMDB based movie search APP: https://moviesearch-omdb.vercel.app/ built with **React**
 
+- FX converter: https://fiatconverter.vercel.app/ built with **Svelte and Tailwindcss**
+
 
 
 <!---
