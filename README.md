@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chiragneb
 - 👀 I’m interested in Cryptocurrency | WEB3
-- 🌱 I’m currently learing JS, PY and ETH
-- 👨🏾‍💻 Looking for junior front-end developer Job 
+- 🌱 I’m currently learing JavaScript 
+- 👨🏾‍💻 Looking for FE/QA junior or Intern position (JS, React, NextJS)
 - 📫 How to reach me chiragneb@gmail.com   
 
 
